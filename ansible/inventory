@@ -1,0 +1,8 @@
+[development]
+192.168.0.4
+
+[staging]
+192.168.0.4
+
+[production]
+192.168.0.6
